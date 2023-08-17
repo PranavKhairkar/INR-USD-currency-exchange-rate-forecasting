@@ -1,4 +1,4 @@
-# INR-USD-currency-exchange-rate-forecasting
+# USD-INR-currency-exchange-rate-forecasting
 The code provided is  analysis of the USD - INR (US Dollar to Indian Rupee) exchange rate data using Python and various data analysis and time series forecasting techniques. The code is structured into several sections, each focusing on different aspects of data preprocessing, exploratory data analysis (EDA), time series decomposition, forecasting, and evaluation.
 
 ## Data Loading and Initial Analysis:
